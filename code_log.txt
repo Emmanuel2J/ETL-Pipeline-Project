@@ -1,0 +1,18 @@
+2025-01-03 - 10-20-05  Intialization Of Values
+2025-01-03 - 10-20-05  Intialization Completed
+2025-01-03 - 10-20-05  ETL Begins
+2025-01-03 - 10-20-05  Extraction Begins
+2025-01-03 - 10-20-07  Extraction Ended
+2025-01-03 - 10-20-07  Tranformation Begins
+2025-01-03 - 10-20-07  Tranformation Ended
+2025-01-03 - 10-20-07  Loading Phase Begun
+2025-01-03 - 10-20-07  Loading to CSV
+2025-01-03 - 10-20-07  Loaded to CSV
+2025-01-03 - 10-20-07  Connection Intialized
+2025-01-03 - 10-20-07  Loaded Dataframe to database
+2025-01-03 - 10-20-07  Running all the contents query
+2025-01-03 - 10-20-07  Running average market capatilization of all the banks in Billion GBP
+2025-01-03 - 10-20-07  Running only names of the top 5 banks query
+2025-01-03 - 10-20-07  Terminating Connection
+2025-01-03 - 10-20-07  SQL Connection Terminated
+2025-01-03 - 10-20-07  ETL Process Ended
